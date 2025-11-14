@@ -1,4 +1,4 @@
-# OutbrAIk – Early Disease Forecasting Web App
+# EpiSure – Early Disease Forecasting Web App
 
 ## Project Overview
 OutbrAIk is an **early warning system for infectious diseases** that leverages historical climate and disease data to forecast outbreaks like dengue and malaria. Public health agencies can use this system to **proactively respond** before a disease spreads widely, enabling timely resource allocation, awareness campaigns, and preventive measures.
